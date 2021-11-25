@@ -6,6 +6,6 @@ class Dog {
     }
 }
 
-var dogOne = new Dog('Derick', 'Filipino Bulldog', 'Pink');
+var dogOne = new Dog('', '', '');
 
 console.log(dogOne);
